@@ -1,0 +1,34 @@
+{
+  "title": "岐阜県 入試過去問",
+  "zipName": "gifu-pdfs.zip",
+  "filters": [
+    {
+      "label": "教科",
+      "options": [
+        { "value": "kokugo", "label": "国語" },
+        { "value": "suugaku", "label": "数学" },
+        { "value": "rika", "label": "理科" },
+        { "value": "eigo", "label": "英語" },
+        { "value": "syakai", "label": "社会" }
+      ]
+    },
+    {
+      "label": "年度",
+      "options": [
+        { "value": "R8", "label": "R8（2026）年度" },
+        { "value": "R7", "label": "R7（2025）年度" },
+        { "value": "R6", "label": "R6（2024）年度" },
+        { "value": "R5", "label": "R5（2023）年度" },
+        { "value": "R4", "label": "R4（2022）年度" },
+        { "value": "R3", "label": "R3（2021）年度" },
+        { "value": "R2", "label": "R2（2020）年度" },
+        { "value": "H31", "label": "H31（2019）年度" },
+        { "value": "H30", "label": "H30（2018）年度" },
+        { "value": "H29", "label": "H29（2017）年度" },
+        { "value": "H28", "label": "H28（2016）年度" },
+        { "value": "H27", "label": "H27（2015）年度" },
+        { "value": "H26", "label": "H26（2014）年度" }
+      ]
+    }
+  ]
+}
